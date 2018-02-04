@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.0",
+	"FriendlyName": "ProceduralUtils",
+	"Description": "Exposes a set of utilities (Blueprint nodes) for procedural instancing through ASCII files with parsing options, procedural rules (randomizers, modifiers, etc...), cascading processing and more.",
+	"Category": "VHLab",
+	"CreatedBy": "Bruno Fanini",
+	"CreatedByURL": "",
+	"DocsURL": "http://osiris.itabc.cnr.it/scenebaker/index.php/resources/unreal-engine-4/proceduralutils-plugin/",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "ProceduralUtils",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
